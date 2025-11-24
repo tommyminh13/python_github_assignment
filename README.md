@@ -14,6 +14,7 @@ or
 
 python3 app.py
 
+---
 Example Interaction
 
 Welcome to the Gym Time Calculator!
